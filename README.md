@@ -2,7 +2,7 @@
 - 👀 I’m interested in configuration management
 - 🌱 I’m currently learning Github 
 - 💞️ I’m looking to collaborate on GIT
-- 📫 How to reach me ...
+- 📫 How to reach me this is a text...
 
 <!---
 umermkhan/umermkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
